@@ -1,0 +1,20 @@
+.row {
+    display: flex;
+    column-gap: 20px;
+    padding: 020px 0px;
+}
+.col_4{
+    width: 40%;
+}
+aside{
+    padding: 12px 5px;
+    h4 {
+        font-size: 19px;
+        text-align: center;
+        color: #343434;
+        margin-top: 0px;
+    }
+    // .bg_image{
+    //     background: url('src/assets/img/previous-mach-result.jpg') ;
+    // }
+}
